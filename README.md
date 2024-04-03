@@ -20,7 +20,7 @@ Keeb Port is a split keyboard architecture with a central part housing a micro c
 
 ## Keeb Port RP2040
 
-Central part for all split keyboard layouts housing a PGA2040, a TPS43 touch pad and 6 keys (two keys can be replaced with encoders optionally). Needed for all keyboard layouts of this repository.
+Central part for all split keyboard layouts housing a PGA2040, a TPS65 touch pad and 6 keys (two keys can be replaced with encoders optionally). Needed for all keyboard layouts of this repository.
 ![KeebPortRP2040Render](Pictures/KeebPortRP2040Render.png)
 
 ### PCBs
