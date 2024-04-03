@@ -21,14 +21,24 @@ Keeb Port is a split keyboard architecture with a central part housing a micro c
 ## Keeb Port RP2040
 
 Central part for all split keyboard layouts housing a PGA2040, a TPS43 touch pad and 6 keys (two keys can be replaced with encoders optionally). Needed for all keyboard layouts of this repository.
+![KeebPortRP2040Render](Pictures/KeebPortRP2040Render.png)
+
+### PCBs
 
 ![Keeb Port Pcb](Pictures/KeebPortRP2040Pcb.png)
 ![Keeb Port Plate](Pictures/KeebPortRP2040Plate.png)
 ![Keeb Port Bottom](Pictures/KeebPortRP2040Bottom.png)
 
+### STLs
+
+<https://github.com/oceanKeebs/KeebPort/StlFiles/KeebPort_RP2040>
+
 ## Kyrious Crab
 
 A SplitKb Kyria inspired split keyboard layout with more aggressive stagger and added num row. Per side 31 keys are available.
+![KyriousCrabRender](Pictures/KyriousCrabRender.png)
+
+### PCBs
 
 ![Kyrious Crab Pcb](Pictures/KyriousCrabPcb.png)
 ![Kyrious Crab Plate](Pictures/KyriousCrabPlate.png)
@@ -37,6 +47,9 @@ A SplitKb Kyria inspired split keyboard layout with more aggressive stagger and 
 ## Lucky Albatros
 
 A Lily58 inspired split keyboard layout with 3 additional columns for arrow keys and/or macros. Per side 33 keys are available.
+![LuckyAlbatrosRender](Pictures/LuckyAlbatrosRender.png)
+
+### PCBs
 
 ![Lucky Albatros Pcb](Pictures/LuckyAlbatrosPcb.png)
 ![Lucky Albatros Plate](Pictures/LuckyAlbatrosPlate.png)
